@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tokiii)](https://github.com/tokiii/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tokiii&show_icons=true&theme=radical)](https://github.com/tokiii/github-readme-stats)
 <!--
 **tokiii/tokiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
